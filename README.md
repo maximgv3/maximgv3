@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Maksim Gvazava
+iOS Developer | Open to Work
 
-<!--
-**maximgv3/maximgv3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+iOS developer with hands-on experience building apps from scratch — 
+solo and in a team with PR workflow and code review.
 
-Here are some ideas to get you started:
+## Tech Stack
+Swift · UIKit · SwiftUI · MVVM · MVP · Combine · Core Data · 
+URLSession · REST API · OAuth 2.0 · Unit Testing · UI Testing · Git · Xcode
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [MovieQuiz](https://github.com/maximgv3/MovieQuiz) | Quiz app with IMDb API, game logic and statistics | UIKit, MVP, Unit/UI Testing |
+| [ImageFeed](https://github.com/maximgv3/ImageFeed) | Photo feed app with OAuth authorization | UIKit, OAuth, WebKit |
+| [Tracker](https://github.com/maximgv3/Tracker) | Habit and event tracker with local storage | UIKit, Core Data |
+| [Trains](https://github.com/maximgv3/Trains) | Transport schedule app | SwiftUI, Combine |
+| [FakeNFT](https://github.com/maximgv3/FakeNFT-32-2) | Team project built to spec | SwiftUI, MVVM, async/await |
+
+## Contacts
+- Telegram: [@maximgv3](https://t.me/maximgv3)
+- Email: maximgv@icloud.com
