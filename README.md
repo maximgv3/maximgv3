@@ -16,6 +16,7 @@ URLSession · REST API · OAuth 2.0 · Unit Testing · UI Testing · Git · Xcod
 | [Tracker](https://github.com/maximgv3/Tracker) | Habit and event tracker with local storage | UIKit, Core Data |
 | [Trains](https://github.com/maximgv3/Trains) | Transport schedule app | SwiftUI, Combine |
 | [FakeNFT](https://github.com/maximgv3/FakeNFT-32-2) | Team iOS app with catalog, profile, cart, and order flow | SwiftUI, MVVM, async/await |
+| [WMS](https://github.com/maximgv3/WMS) | Mini WMS app in development with picking flow, barcode scanning, task state, and mock service layer | SwiftUI, MVVM, Observation, AVFoundation |
 
 ## Contacts
 - Telegram: [@maximgv3](https://t.me/maximgv3)
