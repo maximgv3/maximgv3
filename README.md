@@ -1,11 +1,14 @@
 # Hi, I'm Maksim Gvazava
 iOS Developer | Open to Work
 
+📄 [CV / Resume PDF](./Maxim_Gvazava_CV.pdf)
+
 iOS developer with hands-on experience building apps from scratch, both independently and in a team environment with PR workflow and code review.
 
 ## Tech Stack
-Swift · UIKit · SwiftUI · MVVM · MVP · Combine · Core Data · 
-URLSession · REST API · OAuth 2.0 · Unit Testing · UI Testing · Git · Xcode
+Swift · SwiftUI · UIKit · MVVM · MVP · Combine · Swift Concurrency · Core Data ·
+URLSession · REST API · OAuth 2.0 · WebKit · AVFoundation · SPM ·
+XCTest · Swift Testing · Unit/UI Testing · Git
 
 ## Projects
 
