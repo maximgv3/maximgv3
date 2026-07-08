@@ -1,7 +1,7 @@
 # Hi, I'm Maksim Gvazava
 iOS Developer | Open to Work
 
-📄 [CV / Resume PDF](./Maxim_Gvazava_CV.pdf)
+📄 [CV / Resume PDF](./Maxim_Gvazava_CV_RU.pdf)
 
 iOS developer with hands-on experience building apps from scratch, both independently and in a team environment with PR workflow and code review.
 
