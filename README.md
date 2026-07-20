@@ -1,6 +1,6 @@
 # Hi, I'm Maksim Gvazava
 
-### Junior iOS Developer
+### iOS Developer
 
 Tula, Russia · Remote / Hybrid · Open to relocation · Available immediately
 
